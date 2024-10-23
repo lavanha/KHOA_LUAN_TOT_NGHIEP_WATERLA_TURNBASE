@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b267886ea7ccfc14e97a673858773654, type: 3}
+  m_Name: AudioMain
+  m_EditorClassIdentifier: 
+  shoot:
+  - {fileID: 8300000, guid: 3472f4fee109fa540a8f436bef3a9ad8, type: 3}
+  explosion:
+  - {fileID: 8300000, guid: d0d637e89ebf1c045a7e99804fdd1e1c, type: 3}
+  move:
+  - {fileID: 0}
